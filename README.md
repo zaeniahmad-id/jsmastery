@@ -2,7 +2,7 @@
 
 ## <a>🤸 Tutorial Slide Button</a>
 
-**Buat Function Javascript**
+**Buat Function Javascript.**
 <br>
 Step pertama, buat fungsi javascript seperti berikut untuk menangani scroll:
 
@@ -23,7 +23,8 @@ function scrollToPrevCard() {
   container.scrollLeft -= window.innerWidth / 2.1;}
 ```
 
-**Konfigurasi HTML**
+**Konfigurasi HTML.**
+<br>
 Panggil fungsi di atas kedalam tombol yang ada di div elemen horizontal scroll:
 ```html
 <div class="container">
