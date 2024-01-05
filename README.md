@@ -7,16 +7,18 @@
 Step pertama, buat fungsi javascript seperti berikut untuk menangani scroll:
 
 
-Untuk scroll ke kanan:
+Tombol untuk scroll ke kanan:
 ```javascript
+// main.js
 /** rightscrollbutton */
 function scrollToNextCard() {
   var container = document.getElementById('id-kontainer-horizontal');
   container.scrollLeft += window.innerWidth / 2.1;}
 ```
 
-Untuk scroll ke kiri:
+Tombol untuk scroll ke kiri:
 ```javascript
+// main.js
 /** leftscrollbutton */
 function scrollToPrevCard() {
   var container = document.getElementById('id-container-horizontal');
