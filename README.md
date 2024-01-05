@@ -22,6 +22,9 @@ function scrollToPrevCard() {
   var container = document.getElementById('id-container-horizontal');
   container.scrollLeft -= window.innerWidth / 2.1;}
 ```
+<br>
+<br>
+<br>
 
 **Konfigurasi HTML.**
 <br>
