@@ -40,7 +40,7 @@ Panggil fungsi di atas kedalam tombol yang ada di div elemen horizontal scroll:
 
 Buat id horizontal scroll div, lalu integrasikan dengan kode js di atas:
 ```html
-<div class="horizontal-scroll id="id-kontainer-horizontal">
+<div class="horizontal-scroll" id="id-kontainer-horizontal">
   <div class="card">
     <img>
     <p>
